@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "clip"
+  site-url: "https://sizhky.github.io/clip"
+  description: "source code for CLIP subsection in Chapter-15b"
+  repo-branch: dev
+  repo-url: "https://github.com/sizhky/clip"
