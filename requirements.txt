@@ -5,4 +5,4 @@ nbdev==2.3.12
 setuptools==68.2.2
 timm==0.9.7
 torch-snippets==0.507
-transformers==4.33.2
+transformers[torch]==4.33.2

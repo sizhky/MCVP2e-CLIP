@@ -10,7 +10,11 @@ d = {
     },
     "syms": {
         "clip.config": {
-            "clip.config.ClipConfig": ("config.html#clipconfig", "clip/config.py")
+            "clip.config.ClipConfig": ("config.html#clipconfig", "clip/config.py"),
+            "clip.config.ClipConfig.to_json_string": (
+                "config.html#clipconfig.to_json_string",
+                "clip/config.py",
+            ),
         },
         "clip.core": {
             "clip.core.download_flickr8k_from_kaggle": (
